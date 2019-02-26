@@ -10,5 +10,3 @@ end
 
 lassie = Dog.new
 lassie.name
-lassie.name
-lassie.name
